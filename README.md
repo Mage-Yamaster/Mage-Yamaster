@@ -2,7 +2,7 @@
 ### 15 years old, High School Student, Self-taught Programmer.😊
 ### Feel free to contact me anytime!✅
 #
-![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mage-Yamaster&show_icons=true&theme=vue-dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mage-Yamaster)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mage-Yamaster&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
